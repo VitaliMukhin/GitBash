@@ -1,1 +1,1 @@
-# GitBash
+# GitBash - Terminal
